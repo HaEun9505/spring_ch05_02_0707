@@ -4,7 +4,7 @@ public class Pencil6BwithEraser implements Pencil {
 
 	@Override
 	public void use() {
-		System.out.println("6B ±½±â·Î ¾²ÀÌ°í Áö¿ì°³µµ ÀÖ½À´Ï´Ù!");
+		System.out.println("6B êµµê¸°ë¡œ ì“°ì´ê³  ì§€ìš°ê°œë„ ìˆìŠµë‹ˆë‹¤!");
 	}
 
 }

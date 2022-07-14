@@ -7,9 +7,9 @@ public class MainClass {
 	public static void main(String[] args) {
 		AbstractApplicationContext ctx = new GenericXmlApplicationContext("classpath:applicationCTX.xml");
 		
-		//implements ÇØ¼­ Pencil·Î °´Ã¼¸¦ ¹ŞÀ½
+		//implements í•´ì„œ Pencilë¡œ ê°ì²´ë¥¼ ë°›ìŒ
 		Pencil pencil = ctx.getBean("pencil", Pencil.class);
-		//bean id, Å¬·¡½º
+		//bean id, í´ë˜ìŠ¤ëª…
 		
 		pencil.use();
 		

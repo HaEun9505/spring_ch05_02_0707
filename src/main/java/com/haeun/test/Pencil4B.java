@@ -1,10 +1,10 @@
 package com.haeun.test;
 
 public class Pencil4B implements Pencil {
-	//Pencil Å¬·¡½º¿¡¼­ ¸¸µç Ãß»ó¸Ş¼Òµå ¿À¹ö¶óÀÌµù
+	//Pencil í´ë˜ìŠ¤ì—ì„œ ë§Œë“  ì¶”ìƒë©”ì†Œë“œ ì˜¤ë²„ë¼ì´ë”©
 	@Override
 	public void use() {
-		System.out.println("4B ±½±â·Î ¾²ÀÔ´Ï´Ù!!");
+		System.out.println("4B êµµê¸°ë¡œ ì“°ì…ë‹ˆë‹¤!!");
 	}
 
 }

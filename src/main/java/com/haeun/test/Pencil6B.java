@@ -4,7 +4,7 @@ public class Pencil6B implements Pencil {
 
 	@Override
 	public void use() {
-		System.out.println("6B ±½±â·Î ¾²ÀÔ´Ï´Ù!!");
+		System.out.println("6B êµµê¸°ë¡œ ì“°ìž…ë‹ˆë‹¤!!");
 	}
 
 }
